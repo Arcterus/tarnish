@@ -1,0 +1,6 @@
+[package]
+
+name = "tarnish"
+version = "0.0.1"
+authors = ["Arcterus <arcterus@mail.com>"]
+
